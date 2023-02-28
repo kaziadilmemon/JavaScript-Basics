@@ -23,3 +23,4 @@ const author="Adil"
 // 4) var Variables are intialized with undefined whereas let and const are not intialized
 // 5) let can be updated but not re-declared 
 // 6) const must be inialized during declaration unlike let & var
+
