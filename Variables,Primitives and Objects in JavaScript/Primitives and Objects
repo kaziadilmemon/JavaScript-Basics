@@ -1,0 +1,23 @@
+/* Primitives data types in javascript
+There are 7 primitive datatypes in javascript:
+1.null 2.number 3.String 4.Symbol 5.undefined 6.Boolean 7.BigInt  */
+let a=null
+let b=34
+let c="Adil"
+let d=Symbol("Hi")
+let e=undefined // if you not declare it it will be undefined 
+let f=true 
+let g=BigInt("678")+BigInt("34")
+console.log(a,b,c,d,e,f,g)
+console.log(typeof("Adil"))
+
+/* Object data types in javascript 
+What is object data type?
+An Object data type is a method for encoding key-value pairs. A single field value may contain one or more sets of key-value pairs. */
+const item={
+  "Adil":true,
+  "Asim":false,
+  "Geek":678,
+  "Computer":undefined
+}
+console.log(item["Adil"])
