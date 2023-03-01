@@ -1,0 +1,7 @@
+console.log("i am Adil")
+var a = 76 //a contains 76
+console.log(a)
+let b = 75
+console.log(b)
+// let 8harry = 7 // not allowed this will give error.
+// console.log(harry8)
