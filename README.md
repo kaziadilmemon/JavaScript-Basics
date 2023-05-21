@@ -3,7 +3,7 @@
 
 
 # Hello Developers!
-This repository contains the code of  Basics JavaScript with the Practice Questions   
+This repository contains the code of JavaScript Basics with the Practice Questions   
 #  Content
 * Introduction to JavaScript.
 * Variables in JavaScript.
